@@ -6,17 +6,17 @@ const Navbar = () => {
     <>
         <div className='max-w-screen justify-between  h-[50px] bg-blue flex items-center shadow-btn'>
             <div className='flex items-center'>
-                <img src={img1} alt="" className=" ml-[15px]" />
-                <button className="mt-2 ml-1 w-[150px] h-[33px] rounded-[20px] border-2 mb-[10px] text-primary font-600 border-primary">
+                <img src={img1} alt="" className=" ml-[15px] animate__animated animate__zoomIn animate__delay-1s" />
+                <button className="mt-2 animate__animated animate__zoomIn animate__delay-1s ml-1 w-[150px] h-[33px] rounded-[20px] border-2 mb-[10px] text-primary font-600 border-primary">
                     <span>On Teams</span>
                     <span className="fa-solid fa-caret-down pl-3" style={{ color: '#2caeff' }}></span>
                 </button>
                 <div className="flex mb-[10px]">
-                    <span className="fa fa-solid fa-plus pl-3 pt-5 text-white"></span>
+                    <span className="fa fa-solid fa-plus animate__animated animate__zoomIn animate__delay-1s pl-3 pt-5 text-white"></span>
                     <span className="line pl-4 mt-3">|</span>
-                    <span className="fa-solid fa-gear pl-4 pt-5 text-white"></span>
+                    <span className="fa-solid fa-gear animate__animated animate__zoomIn animate__delay-1s pl-4 pt-5 text-white"></span>
                     <span className="line pl-4 mt-3">|</span>
-                    <span className="fa-solid fa-align-left pl-4 pt-5 text-white"></span>
+                    <span className="fa-solid fa-align-left animate__animated animate__zoomIn animate__delay-1s pl-4 pt-5 text-white"></span>
                 </div>
             </div>
 

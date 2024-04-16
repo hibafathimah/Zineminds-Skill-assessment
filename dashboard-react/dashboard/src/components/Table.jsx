@@ -59,12 +59,12 @@ const Table = () => {
     <div className="ml-3  mt-4">
       <div className="flex justify-between items-center">
         <div className="w-[300px] h-[35px] rounded-[8px] border-1 focus:border-primary focus:rounded-[8px] border-gray hover:border-primary hover:border-2 shadow-ip">
-          <div className="relative">
+          <div className="relative animate__animated animate__zoomIn animate__delay-1s">
             <input type="text" onChange={handleSearch} className="w-full rounded-[8px]  pl-12 pt-2" placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
             <i className="fas fa-search pt-2 absolute left-3 top-1/2 transform -translate-y-1/2 text-gray"></i>
           </div>
         </div>
-        <div className="num-slider flex items-center">
+        <div className="num-slider flex items-center animate__animated animate__zoomIn animate__delay-1s">
           <button className="fa fa-chevron-left cursor-pointer" onClick={previouspage}></button >
           {/* <button className="num-btn px-3">1</button>
           <button className="num-btn px-3">2</button>
@@ -89,7 +89,7 @@ const Table = () => {
     </div>
 
     {/* table section */}
-    <div className='mt-5 ml-[30px] h-[65%]'>
+    <div className='mt-5 ml-[30px] h-[65%] animate__animated animate__zoomIn animate__delay-1s'>
           <table className='w-[100%]' >
           <thead>
             <tr className="border-b-lightgray border-b">
@@ -128,7 +128,7 @@ const Table = () => {
               <td className='text-[16px] text-left pt-[15px]'>
                 <label>
                   <input type="radio" className="mr-4 bg-primary" />
-                  <span className='w-4 h-4 bg-primary'></span>
+                  <span ></span>
                 </label>
               </td>
               <td className='text-[16px] text-left pt-[15px] '>{user.name}</td>
@@ -184,10 +184,10 @@ const Table = () => {
               onClick={() => setViewall((prev) => !prev)}
             >
               View Less
-            </button>
+            </button >
           ) : (
             <button
-              className="viewall"
+              className="animate__animated animate__zoomIn animate__delay-1s "
               onClick={() => setViewall((prev) => !prev)}
             >
               View All

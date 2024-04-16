@@ -1,0 +1,156 @@
+
+{
+    "user" :[
+   {
+        "id":"1",
+       "name":"Emily",
+       "status":"Available",
+       "phone":"1234567890",
+       "email":"emily@gmail.com",
+       "favourite":false
+   },
+   {
+    "id":"2",
+       "name":"Benjamin",
+       "status":"Busy",
+       "phone":"1234567890",
+       "email":"benjamin@gmail.com",
+       "favourite":true
+   },
+   {
+    "id":"3",
+       "name":"Sophia",
+       "status":"Appear offline",
+       "phone":"1234567890",
+       "email":"sophia@gmail.com",
+       "favourite":false
+   },
+   
+   {
+    "id":"4",
+       "name":"Alexander",
+       "status":"Do not disturb",
+       "phone":"1234567890",
+       "email":"alexander@gmail.com",
+       "favourite":true
+   },
+   {
+    "id":"5",
+       "name":"Arun",
+       "status":"Appear away",
+       "phone":"1234567890",
+       "email":"Arun@gmail.com",
+       "favourite":true
+   },
+   {
+    "id":"6",
+       "name":"Hiba",
+       "status":"Busy",
+       "phone":"1234567890",
+       "email":"hiba@gmail.com",
+       "favourite":false
+   },
+   {
+    "id":"7",
+       "name":"Misriya",
+       "status":"Appear offline",
+       "phone":"1234567890",
+       "email":"misriya@gmail.com",
+       "favourite":false
+   },
+   {
+    "id":"8",
+       "name":"JGopika",
+       "status":"Available",
+       "phone":"1234567890",
+       "email":"gopika@gmail.com",
+       "favourite":false
+   },
+   {
+    "id":"9",
+       "name":"Arundhathi",
+       "status":"Do not disturb",
+       "phone":"12345678905",
+       "email":"Arun00@gmail.com",
+       "favourite":false
+   },
+   {
+    "id":"10",
+       "name":"Irfan",
+       "status":"Busy",
+       "phone":"1234567890",
+       "email":"irfan@gmail.com",
+       "favourite":false
+   }, {
+    "id":"11",
+       "name":"Nivedh",
+       "status":"Appear away",
+       "phone":"1234567890",
+       "email":"nivedh@gmailcom",
+       "favourite":false
+   }, {
+    "id":"12",
+       "name":"Aisha",
+       "status":"Appear offline",
+       "phone":"1234567890",
+       "email":"aisha@gmail.com",
+       "favourite":false
+   }, {
+    "id":"13",
+       "name":"Nidhin",
+       "status":"Available",
+       "phone":"1234567890",
+       "email":"nidhin@gmail.com",
+       "favourite":false
+   }, {
+    "id":"14",
+       "name":"Amjad",
+       "status":"Busy",
+       "phone":"1234567890",
+       "email":"amjad@gmail.com",
+       "favourite":false
+   }, {
+    "id":"15",
+       "name":"Shemma",
+       "status":"Do not disturb",
+       "phone":"1234567890",
+       "email":"shemma@gmail.com",
+       "favourite":false
+   }, {
+    "id":"16",
+       "name":"Deepa",
+       "status":"Busy",
+       "phone":"1234567890",
+       "email":"deepa@gmail.com",
+       "favourite":true
+   }, {
+    "id":"19",
+       "name":"Meenu",
+       "status":"Appear offline",
+       "phone":"1234567890",
+       "email":"meenu@gmail.com",
+       "favourite":false
+   }, {
+    "id":"18",
+       "name":"Alsaj",
+       "status":"Available",
+       "phone":"1234567890",
+       "email":"alsaj@gmail.com",
+       "favourite":false
+   }, {
+    "id":"19",
+       "name":"Midhun",
+       "status":"Appear away",
+       "phone":"1234567890",
+       "email":"midhun@gmail.com",
+       "favourite":false
+   },{
+    "id":"20",
+       "name":"Rafsan",
+       "status":"Be right back",
+       "phone":"1234567890",
+       "email":"rafsan@gmail.com",
+       "favourite":false
+   }
+]
+}

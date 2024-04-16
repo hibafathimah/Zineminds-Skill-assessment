@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* Navbar Styles */
+.nav {
+  border-bottom: 1px solid rgb(79, 79, 79);
+  box-shadow: 1px 5px 17px -1px rgba(31, 31, 31, 0.75);
+}
+
+.input-group-text {
+  background-color: white;
+  border: none;
+}
+
+.search-bar {
+  height: 30px;
+  margin-top: 5px;
+}
+
+.input-width {
+  width: 380px;
+  height: 25px;
+}
+.line {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rgb(89, 89, 89);
+  }
+.line-inner {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rgb(144, 144, 144);
+    font-weight: 100;
+  }
+.line-inner-two {
+    color: rgb(144, 144, 144);
+    font-size: 30px;
+    font-weight: 100;
+  }
